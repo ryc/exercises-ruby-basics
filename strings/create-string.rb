@@ -1,0 +1,3 @@
+# strings
+
+color = String.new
